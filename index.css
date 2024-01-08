@@ -1,0 +1,142 @@
+.ota {
+    width: 400px;
+    height: 600px;
+    /* margin: 0 auto; */
+    margin-left: 500px;
+    display: flex;
+    gap: 30px;
+    margin-top: 100px;
+
+}
+
+.box>img {
+    width: 300px;
+    height: 300px;
+}
+
+.box {
+    background-color: rgb(251, 255, 255);
+    width: 400px;
+    height: 500px;
+    border-right: 5px solid gray;
+    border-bottom: 5px solid gray; 
+    border-top:1px solid black;
+    border-left: 1px solid #000;
+    /* box-shadow: 5px 5px 5px 0px gray; */
+
+
+
+}
+
+.box:hover {
+
+    box-shadow: 3px 3px 3px 10px rgb(107, 70, 255);
+    border: transparent;
+
+
+
+
+}
+
+.box1 {
+    background-color: rgb(255, 255, 255);
+    width: 400px;
+    height: 500px;
+    border: brown;
+    border-right: 5px solid gray;
+    border-bottom: 5px solid gray;
+    border-top:1px solid black;
+    border-left: 1px solid #000;
+
+
+
+}
+
+.box1:hover {
+
+    box-shadow: 3px 3px 3px 10px rgb(107, 79, 230);
+    border: transparent;
+
+
+
+
+}
+
+.box1>img {
+    width: 300px;
+    height: 300px;
+}
+
+.box2 {
+    background-color: rgb(249, 252, 252);
+    width: 400px;
+    height: 500px;
+    border-right: 5px solid gray;
+    border-bottom: 5px solid gray;
+    border-top:1px solid black;
+    border-left: 1px solid #000;
+
+
+
+}
+
+.box2:hover {
+
+    box-shadow: 3px 3px 3px 10px rgb(107, 97, 248);
+    border: transparent;
+
+
+
+
+}
+
+.box2>img {
+    width: 300px;
+    height: 300px;
+}
+.yozish>h1{
+    font-size: 20px;
+    position: absolute;
+    margin-top: 500px;
+}
+.p1 h1{
+    font-size: 19px;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 300px;
+    color: rebeccapurple;
+    
+}
+.p1 p{
+    position: absolute;
+    font-size: 15px;
+    margin-left: 50px;
+    margin-top: 350px;
+}
+.p2 h1{
+/* position: absolute; */
+font-size: 19px;
+position: absolute;
+margin-top: 300px;
+color: rebeccapurple;
+margin-left: 50px;
+}
+.p2 p{
+    font-size: 15px;
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 50px;
+}
+.p3 h1{
+    font-size: 19px;
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 50px;
+    color: rebeccapurple;
+}
+.p3 p{
+    font-size: 15px;
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 50px;
+}
